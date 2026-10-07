@@ -8,15 +8,24 @@ The goal of this lab is to gain practical experience with Windows Server adminis
 
 ## Environment
 
-- VMware Workstation
-- Windows Server
-- Active Directory Domain Services (AD DS)
-
+- Virtualization: VMware Workstation
+- Server: Windows Server
+- Domain Controller: DC01
+- Active Directory Domain: taelab.local
+- Role: Active Directory Domain Services (AD DS)
+ 
 ## Current Progress
 
 - Created and configured a Windows Server virtual machine
 - Installed Windows Server
 - Configured the virtual machine to boot from the Windows Server ISO
+- Created and configured a Windows Server VM in VMware Workstation
+- Installed Windows Server
+- Configured the server as `DC01`
+- Installed Active Directory Domain Services (AD DS)
+- Promoted `DC01` to a Domain Controller
+- Created the `taelab.local` Active Directory domain
+- Configured a new Active Directory forest for the lab
 
 ## What I'm Learning
 
