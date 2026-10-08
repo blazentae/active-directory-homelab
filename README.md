@@ -25,7 +25,13 @@ The goal of this lab is to gain practical experience with Windows Server adminis
 - Installed Active Directory Domain Services (AD DS)
 - Promoted `DC01` to a Domain Controller
 - Created the `taelab.local` Active Directory domain
-- Configured a new Active Directory forest for the lab
+- Configured a new Active Directory forest
+- Configured a static IP address for DC01
+- Created Organizational Units (OUs) for IT, HR, and QA
+- Created a test user account (Lay Shipman)
+- Created the IT-Admins security group
+- Added the test user to the IT-Admins group
+- Practiced the difference between OUs for organization/Group Policy and security groups for access and permissions
 
 ## What I'm Learning
 
