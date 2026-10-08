@@ -31,6 +31,7 @@ The goal of this lab is to gain practical experience with Windows Server adminis
 * Tested DNS/name resolution and connectivity to the domain
 * Joined CLIENT01 to the `taelab.local` domain
 * Organized CLIENT01 within the IT Organizational Unit
+* Successfully logged into CLIENT01 using a domain account
 
 ## Skills Practiced
 
